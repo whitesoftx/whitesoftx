@@ -47,13 +47,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/1580156?v=4"  />
-</div>
-
-###
-
+<p align="center">Let's get social</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/olawhite/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
